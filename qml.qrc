@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CircularProgressBarStyle.qml</file>
+        <file>CircularProgressBar.qml</file>
+        <file>CircularShapeProgressBar.qml</file>
+        <file>CircularCanvasProgressBar.qml</file>
+    </qresource>
+</RCC>
